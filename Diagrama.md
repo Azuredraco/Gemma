@@ -1,5 +1,5 @@
 ```mermaid
-A["📺 CONTENIDO MOTOR<br/>Programa 'El Último Show' - Aragón TV<br/>Talk Show + Música + Cultura<br/>Emisión semanal 90 minutos<br/>🔗 aragonTV.es"] 
+A --> ["📺 CONTENIDO MOTOR<br/>Programa 'El Último Show' - Aragón TV<br/>Talk Show + Música + Cultura<br/>Emisión semanal 90 minutos<br/>🔗 aragonTV.es"] 
 A --> B["📱 CONTENIDOS SATÉLITE<br/>DIGITALES<br/>Engagement diario"]
 A --> C["🎵 EXPERIENCIAS<br/>SONORAS<br/>Contenido premium"] 
 A --> D["🎪 ACTIVACIONES<br/>PRESENCIALES<br/>Conexión física"]
