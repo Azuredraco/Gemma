@@ -2,7 +2,7 @@
 %% === ECOSISTEMA DE CONTENIDOS 'EL ÚLTIMO SHOW' ===
 %% Diagrama optimizado para claridad y mantenimiento
 graph TD
-    subgraph " " %% Contenedor principal sin título visible
+    subgraph " "
         A["📺 <b>CONTENIDO MOTOR</b><br/>Programa 'El Último Show' - Aragón TV<br/>Talk Show + Música + Cultura<br/>Emisión semanal 90 minutos<br/>🔗 aragonTV.es"]
     end
 
